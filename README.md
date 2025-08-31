@@ -29,7 +29,7 @@ Operadores de logística, compras, vendas, financeiro, marketing e TI.
 ### 2.1 Paleta de Cores
 
 * **Primárias**: Laranja Prisma (FF8C00→FFB300), Cinza Chumbo (2E2E2E), Branco (FFFFFF).
-* **Secundárias**: Azul Ação (007BFF), Verde Sucesso (4CAF50), Vermelho Alerta (E53935), Cinza Claro (F5F5F5).
+* **Secundárias**: Azul Ação (007BFF), Verde Sucesso (11b817ff), Vermelho Alerta (E53935), Cinza Claro (F5F5F5).
 
 ### 2.2 Tipografia
 
