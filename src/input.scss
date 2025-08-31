@@ -1,0 +1,8 @@
+/* Replace Tailwind directives with imports if using SCSS, or use a plain CSS file for Tailwind directives */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@layer components{
+    
+}
