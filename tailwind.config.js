@@ -8,16 +8,34 @@ module.exports = {
       colors: {
         prisma:{
           primary: "#FF8C00",
-          secondary: "#2E2E2E",
-          third: "#FFF",
-          action: "#007BFF",
+          primaryDark: "#FF6A00",
+          neutral: "#2E2E2E",
+          white: "#FFF",
+          secondary: "#007BFF",
           sucess: "#11b817ff",
-          alert: "#E53935",
-          backgr: "#F5F5F5"
+          danger: "#E53935",
+          background: "#F5F5F5",
         }
       },
       fontFamily:{
-        inter: ["inter", "sans-serif"]
+        inter: ["Inter", "sans-serif"],
+        roboto: ["Roboto", "sans-serif"],
+      },
+      borderRadius: {
+        sm: "0.25rem",
+        md: "0.5rem",
+        lg: "0.75rem",
+        xl: "1rem",
+        xxl: "1.5rem",
+      },
+      spacing: {
+        18: "4.5rem",
+        72: "18rem",
+      },
+      boxShadow: {
+        sm: "0 1px 2px rgba(0,0,0,0.05)",
+        md: "0 4px 6px rgba(0,0,0,0.1)",
+        lg: "0 10px 15px rgba(0,0,0,0.15)",
       }
     },
   },
