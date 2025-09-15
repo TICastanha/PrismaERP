@@ -14,6 +14,7 @@ import { RouterModule } from '@angular/router';
 
 export class LoginComponent {
 
+<<<<<<< HEAD
   model = {
 
      id: Number,
@@ -27,5 +28,9 @@ export class LoginComponent {
    console.log(this.model.email)
    console.log(this.model.senha)
   }
+=======
+
+
+>>>>>>> 13468b3429280f455c83f2067888f17cfdfff6a8
 }
 
